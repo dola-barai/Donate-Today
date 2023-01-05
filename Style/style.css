@@ -1,0 +1,32 @@
+.background{
+    background-image: url(../images/donation6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1400px;
+    height: 669px;
+    text-align: center;
+}
+.blog{
+     padding: 100px 350px 220px 350px;
+
+}
+.title{
+    color: white;
+    font-weight: 700;
+    font-size: 65px;
+}
+p{
+    font-size: 18px; 
+    color: wheat;
+    margin-top: 0%;
+}
+.btn-primary{
+    color: aliceblue;
+    height: 64px;
+    border-radius: 5px;
+    background: brown;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 10px 25px;
+}
